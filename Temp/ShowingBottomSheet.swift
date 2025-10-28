@@ -12,9 +12,10 @@ struct ShowingBottomSheet: View {
     var body: some View {
         VStack{
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-        Button("Show Bottom Sheet"){
+        Button("Show Bottom Sheet123"){
             showSheet.toggle()
         }
+            Text("Just for Testing")
         
         }
         .sheet(isPresented: $showSheet) {
