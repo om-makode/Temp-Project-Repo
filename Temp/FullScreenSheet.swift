@@ -23,7 +23,7 @@ struct FullScreenSheet: View {
 struct ShowFullScreenSheet: View{
     @Binding var isShown: Bool
     var body: some View{
-        Button("Dismiss"){
+        Button("Dismiss Screen"){
             isShown = false
         }
     }
