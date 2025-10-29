@@ -16,6 +16,7 @@ struct ShowingBottomSheet: View {
             showSheet.toggle()
         }
             Text("Just for Testing")
+            Text("New Text")
         
         }
         .sheet(isPresented: $showSheet) {
