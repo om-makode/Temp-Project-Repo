@@ -13,7 +13,7 @@ struct ContentView: View {
         
         
         
-        PodExample()
+        GeometryReaderExample()
         
         
         

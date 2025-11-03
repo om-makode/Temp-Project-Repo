@@ -30,6 +30,8 @@ struct SegmentedControllExample: View {
                     
             }
         }.pickerStyle(SegmentedPickerStyle())
+            
+        
         
         Text("\(options[selectedOption])")
             

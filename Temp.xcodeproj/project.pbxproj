@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		586C47F82EB48CD70063171B /* PathExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 586C47F72EB48CD70063171B /* PathExample.swift */; };
+		586C47FB2EB4A1E90063171B /* AnimationExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 586C47FA2EB4A1E90063171B /* AnimationExample.swift */; };
 		5897BE512EA9F5720083F8BB /* TempApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5897BE502EA9F5720083F8BB /* TempApp.swift */; };
 		5897BE532EA9F5720083F8BB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5897BE522EA9F5720083F8BB /* ContentView.swift */; };
 		5897BE552EA9F5740083F8BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5897BE542EA9F5740083F8BB /* Assets.xcassets */; };
@@ -38,6 +40,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		586C47F72EB48CD70063171B /* PathExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathExample.swift; sourceTree = "<group>"; };
+		586C47FA2EB4A1E90063171B /* AnimationExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationExample.swift; sourceTree = "<group>"; };
 		5897BE4D2EA9F5720083F8BB /* Temp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Temp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5897BE502EA9F5720083F8BB /* TempApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempApp.swift; sourceTree = "<group>"; };
 		5897BE522EA9F5720083F8BB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -117,6 +121,8 @@
 				5897BE7A2EABB96F0083F8BB /* ToolBarExample2.swift */,
 				5897BE8A2EAF36BE0083F8BB /* NavigationExample.swift */,
 				5897BEB92EB0CA8D0083F8BB /* PodExample.swift */,
+				586C47FA2EB4A1E90063171B /* AnimationExample.swift */,
+				586C47F72EB48CD70063171B /* PathExample.swift */,
 				5897BE912EAF51740083F8BB /* PhotoPickerExample.swift */,
 				5897BE872EACEBD60083F8BB /* LazyVGridExample.swift */,
 				5897BE842EACE41A0083F8BB /* ScrollViewExample2.swift */,
@@ -303,6 +309,7 @@
 				5897BE9C2EAFAFF40083F8BB /* GalleryPickerView.swift in Sources */,
 				5897BEA82EAFB62F0083F8BB /* ImagePicker2.swift in Sources */,
 				5897BEA42EAFB4370083F8BB /* MultipleImagePicker.swift in Sources */,
+				586C47FB2EB4A1E90063171B /* AnimationExample.swift in Sources */,
 				5897BE6C2EAB65740083F8BB /* AlertViewExample.swift in Sources */,
 				5897BE952EAF5BC10083F8BB /* WebViewExample.swift in Sources */,
 				5897BE992EAFAFCF0083F8BB /* ImagePicker.swift in Sources */,
@@ -310,6 +317,7 @@
 				5897BE652EAB52BD0083F8BB /* TabViewExample.swift in Sources */,
 				5897BEA02EAFB40A0083F8BB /* GalleryMultipleView.swift in Sources */,
 				5897BEAC2EAFB6580083F8BB /* CameraGalleryPickerView.swift in Sources */,
+				586C47F82EB48CD70063171B /* PathExample.swift in Sources */,
 				5897BE7B2EABB96F0083F8BB /* ToolBarExample2.swift in Sources */,
 				5897BE692EAB57180083F8BB /* SegmentedControllExample.swift in Sources */,
 				5897BE852EACE41A0083F8BB /* ScrollViewExample2.swift in Sources */,
